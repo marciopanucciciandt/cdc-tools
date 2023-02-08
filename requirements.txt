@@ -1,0 +1,4 @@
+delta-spark==2.2.0
+jupyterlab==3.6.1
+pandas==1.5.3
+pre-commit==3.0.4
